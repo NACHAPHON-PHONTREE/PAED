@@ -1,5 +1,5 @@
 # torch==1.10.0
-transformers==4.22.2
+transformers==5.0.0rc3
 datasets
 pandas==1.2.4
 pydantic==1.8.2
